@@ -1,0 +1,7 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Alinhar itens ao topo */
+}
+
+/* Ajustes adicionais conforme necessário para a Sidebar e a tabela */
